@@ -1,0 +1,9 @@
+Package: admemorandum.ad-ios.github.io
+Name: ADMorandum
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 一個普通的備忘錄程序
+Maintainer: AD <1107154510@qq.com>
+Author: AD <1107154510@qq.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
